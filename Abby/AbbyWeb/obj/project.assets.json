@@ -2049,11 +2049,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Projects\\BulkyWebProject\\Abby\\AbbyWeb\\AbbyWeb.csproj",
+      "projectUniqueName": "G:\\Projects\\AbbyWeb\\Abby\\AbbyWeb\\AbbyWeb.csproj",
       "projectName": "AbbyWeb",
-      "projectPath": "G:\\Projects\\BulkyWebProject\\Abby\\AbbyWeb\\AbbyWeb.csproj",
+      "projectPath": "G:\\Projects\\AbbyWeb\\Abby\\AbbyWeb\\AbbyWeb.csproj",
       "packagesPath": "C:\\Users\\fuada\\.nuget\\packages\\",
-      "outputPath": "G:\\Projects\\BulkyWebProject\\Abby\\AbbyWeb\\obj\\",
+      "outputPath": "G:\\Projects\\AbbyWeb\\Abby\\AbbyWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fuada\\AppData\\Roaming\\NuGet\\NuGet.Config",
